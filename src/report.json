@@ -1,0 +1,2577 @@
+{
+    "https://4everland.io": {
+        "metadata": {
+            "time": "2023-10-20T14:29:48.836846589Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://4everland.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://alexdav.id": {
+        "metadata": {
+            "time": "2023-10-20T14:29:34.218182842Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://alexdav.id"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://aragon.ventures": {
+        "metadata": {
+            "time": "2023-10-20T14:29:31.612177717Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://aragon.ventures"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://astyanax.io": {
+        "metadata": {
+            "time": "2023-10-20T14:29:39.529089873Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://astyanax.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://cdn.cwinfo.net": {
+        "metadata": {
+            "time": "2023-10-20T14:29:43.696340159Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://cdn.cwinfo.net"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://cf-ipfs.com": {
+        "metadata": {
+            "time": "2023-10-20T14:29:52.3470069Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://cf-ipfs.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            }
+        }
+    },
+    "https://cloudflare-ipfs.com": {
+        "metadata": {
+            "time": "2023-10-20T14:29:45.12839863Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://cloudflare-ipfs.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 1,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://cthd.icu": {
+        "metadata": {
+            "time": "2023-10-20T14:29:42.305953847Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://cthd.icu"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 1,
+                "fail": 0,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://dweb.eu.org": {
+        "metadata": {
+            "time": "2023-10-20T14:29:49.14968829Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://dweb.eu.org"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://dweb.link": {
+        "metadata": {
+            "time": "2023-10-20T14:29:55.114461234Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://dweb.link"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion": {
+        "metadata": {
+            "time": "2023-10-20T14:29:28.472163755Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://gateway.ipfs.io": {
+        "metadata": {
+            "time": "2023-10-20T14:32:10.890139836Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://gateway.ipfs.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 3,
+                "fail": 2,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            }
+        }
+    },
+    "https://gateway.originprotocol.com": {
+        "metadata": {
+            "time": "2023-10-20T14:30:19.202151614Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://gateway.originprotocol.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://gateway.pinata.cloud": {
+        "metadata": {
+            "time": "2023-10-20T14:29:55.460016002Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://gateway.pinata.cloud"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 1,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://gravity.jup.io": {
+        "metadata": {
+            "time": "2023-10-20T14:30:12.921815594Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://gravity.jup.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://gw3.io": {
+        "metadata": {
+            "time": "2023-10-20T14:31:08.679219744Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://gw3.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://hardbin.com": {
+        "metadata": {
+            "time": "2023-10-20T14:40:11.198981373Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://hardbin.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 3,
+                "fail": 2,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 2,
+                "fail": 4,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 1,
+                "fail": 3,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 1,
+                "fail": 0,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 1,
+                "fail": 2,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://hashnews.k1ic.com": {
+        "metadata": {
+            "time": "2023-10-20T14:33:05.943365833Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://hashnews.k1ic.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://hub.textile.io": {
+        "metadata": {
+            "time": "2023-10-20T14:30:48.563390679Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://hub.textile.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.1-2.dev": {
+        "metadata": {
+            "time": "2023-10-20T14:30:58.59175971Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.1-2.dev"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.alloyxuast.tk": {
+        "metadata": {
+            "time": "2023-10-20T14:31:19.03775169Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.alloyxuast.tk"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.best-practice.se": {
+        "metadata": {
+            "time": "2023-10-20T14:31:08.269272686Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.best-practice.se"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.busy.org": {
+        "metadata": {
+            "time": "2023-10-20T14:31:14.214166913Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.busy.org"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.chisdealhd.co.uk": {
+        "metadata": {
+            "time": "2023-10-20T14:31:10.766511022Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.chisdealhd.co.uk"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.decoo.io": {
+        "metadata": {
+            "time": "2023-10-20T14:33:26.454076324Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.decoo.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.drink.cafe": {
+        "metadata": {
+            "time": "2023-10-20T14:32:04.150966734Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.drink.cafe"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.eth.aragon.network": {
+        "metadata": {
+            "time": "2023-10-20T14:33:45.912734119Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.eth.aragon.network"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 2,
+                "fail": 1,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.fleek.co": {
+        "metadata": {
+            "time": "2023-10-20T14:31:43.115242358Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.fleek.co"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.fooock.com": {
+        "metadata": {
+            "time": "2023-10-20T14:32:31.323566242Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.fooock.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.funnychain.co": {
+        "metadata": {
+            "time": "2023-10-20T14:32:30.180500418Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.funnychain.co"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs-gateway.cloud": {
+        "metadata": {
+            "time": "2023-10-20T14:36:13.661160852Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs-gateway.cloud"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "http://ipfs.genenetwork.org": {
+        "metadata": {
+            "time": "2023-10-20T14:29:43.166257754Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "http://ipfs.genenetwork.org"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.greyh.at": {
+        "metadata": {
+            "time": "2023-10-20T14:32:38.018936195Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.greyh.at"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.ink": {
+        "metadata": {
+            "time": "2023-10-20T14:32:49.363724498Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.ink"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.io": {
+        "metadata": {
+            "time": "2023-10-20T14:34:43.635173005Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 3,
+                "fail": 2,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.kaleido.art": {
+        "metadata": {
+            "time": "2023-10-20T14:32:54.413422113Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.kaleido.art"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.kavin.rocks": {
+        "metadata": {
+            "time": "2023-10-20T14:33:33.223706773Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.kavin.rocks"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.kinematiks.com": {
+        "metadata": {
+            "time": "2023-10-20T14:33:20.326244932Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.kinematiks.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.lain.la": {
+        "metadata": {
+            "time": "2023-10-20T14:34:14.15226408Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.lain.la"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.mttk.net": {
+        "metadata": {
+            "time": "2023-10-20T14:33:40.916131924Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.mttk.net"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.namebase.io": {
+        "metadata": {
+            "time": "2023-10-20T14:39:06.552936451Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.namebase.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.overpi.com": {
+        "metadata": {
+            "time": "2023-10-20T14:34:14.599617501Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.overpi.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.runfission.com": {
+        "metadata": {
+            "time": "2023-10-20T14:36:19.688098309Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.runfission.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 4,
+                "fail": 1,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 3,
+                "fail": 3,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 3,
+                "fail": 6,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 1,
+                "fail": 0,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 2,
+                "fail": 1,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.scalaproject.io": {
+        "metadata": {
+            "time": "2023-10-20T14:33:57.4608195Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.scalaproject.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.slang.cx": {
+        "metadata": {
+            "time": "2023-10-20T14:34:23.911680806Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.slang.cx"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.smartholdem.io": {
+        "metadata": {
+            "time": "2023-10-20T14:34:54.865602828Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.smartholdem.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.soul-network.com": {
+        "metadata": {
+            "time": "2023-10-20T14:34:34.789791982Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.soul-network.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.tayfundogdas.me": {
+        "metadata": {
+            "time": "2023-10-20T14:34:53.007659571Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.tayfundogdas.me"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.telos.miami": {
+        "metadata": {
+            "time": "2023-10-20T14:35:10.68643052Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.telos.miami"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.tribecap.co": {
+        "metadata": {
+            "time": "2023-10-20T14:35:19.338827054Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.tribecap.co"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.trusti.id": {
+        "metadata": {
+            "time": "2023-10-20T14:35:02.809145945Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.trusti.id"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.uploads.nu": {
+        "metadata": {
+            "time": "2023-10-20T14:35:15.652575787Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.uploads.nu"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs.yt": {
+        "metadata": {
+            "time": "2023-10-20T14:35:54.090224425Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs.yt"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfs1.pixura.io": {
+        "metadata": {
+            "time": "2023-10-20T14:36:37.582100348Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfs1.pixura.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ipfsgateway.makersplace.com": {
+        "metadata": {
+            "time": "2023-10-20T14:36:15.469583374Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ipfsgateway.makersplace.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://konubinix.eu": {
+        "metadata": {
+            "time": "2023-10-20T14:38:19.827256758Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://konubinix.eu"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            }
+        }
+    },
+    "http://natoboram.mynetgear.com:8080": {
+        "metadata": {
+            "time": "2023-10-20T14:30:04.56066049Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "http://natoboram.mynetgear.com:8080"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://nftstorage.link": {
+        "metadata": {
+            "time": "2023-10-20T14:36:13.687334736Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://nftstorage.link"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ninetailed.ninja": {
+        "metadata": {
+            "time": "2023-10-20T14:36:42.190879865Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ninetailed.ninja"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://permaweb.eu.org": {
+        "metadata": {
+            "time": "2023-10-20T14:36:40.639417804Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://permaweb.eu.org"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://permaweb.io": {
+        "metadata": {
+            "time": "2023-10-20T14:38:02.428412843Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://permaweb.io"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://ravencoinipfs-gateway.com": {
+        "metadata": {
+            "time": "2023-10-20T14:38:27.8316126Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://ravencoinipfs-gateway.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://search.ipfsgate.com": {
+        "metadata": {
+            "time": "2023-10-20T14:37:40.672792502Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://search.ipfsgate.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 2,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 5,
+                "skip": 0
+            },
+            "IPNS": {
+                "pass": 0,
+                "fail": 4,
+                "skip": 0
+            },
+            "Others": {
+                "pass": 0,
+                "fail": 6,
+                "skip": 0
+            },
+            "Block-CAR": {
+                "pass": 0,
+                "fail": 9,
+                "skip": 0
+            },
+            "Tar": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "UnixFS": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            },
+            "Subdomains": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://storjipfs-gateway.com": {
+        "metadata": {
+            "time": "2023-10-20T14:37:29.064594795Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://storjipfs-gateway.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://storry.tv": {
+        "metadata": {
+            "time": "2023-10-20T14:37:47.326410538Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://storry.tv"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://tth-ipfs.com": {
+        "metadata": {
+            "time": "2023-10-20T14:37:49.781737532Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://tth-ipfs.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://via0.com": {
+        "metadata": {
+            "time": "2023-10-20T14:37:54.955785218Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://via0.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://video.oneloveipfs.com": {
+        "metadata": {
+            "time": "2023-10-20T14:38:16.44387274Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://video.oneloveipfs.com"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    },
+    "https://w3s.link": {
+        "metadata": {
+            "time": "2023-10-20T14:38:11.589715795Z",
+            "version": "dev",
+            "job_url": "https://github.com/ipfs/public-gateway-checker/actions/runs/6589064675",
+            "gateway_url": "https://w3s.link"
+        },
+        "results": {
+            "DNSLink": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "CORS": {
+                "pass": 0,
+                "fail": 1,
+                "skip": 0
+            },
+            "JSON-CBOR": {
+                "pass": 0,
+                "fail": 3,
+                "skip": 0
+            }
+        }
+    }
+}
